@@ -1,0 +1,15 @@
+@import url(./default.css);
+
+.home-title {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  filter: drop-shadow(2px 5px 10px rgba(0, 0, 0, 0.53));
+}
+
+.home-subtitle {
+  font-size: 1.5rem;
+  filter: drop-shadow(2px 5px 10px rgba(0, 0, 0, 0.53));
+  font-weight: 100;
+  font-family: "Playwrite AU SA", cursive;
+}

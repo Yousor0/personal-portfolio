@@ -1,0 +1,31 @@
+@import url(./default.css);
+
+.footer {
+  width: 100%;
+  padding: 1rem 0;
+  text-align: center;
+  color: white;
+  background: transparent;
+  z-index: 10;
+  position: static;
+  margin-top: auto;
+}
+
+.footer-icons {
+  margin-bottom: 0.5rem;
+}
+
+.footer-link {
+  color: white;
+  margin: 0 1rem;
+  font-size: 1.5rem;
+  transition-duration: 0.2s;
+}
+
+.footer-link:hover {
+  filter: drop-shadow(2px 5px 10px rgba(255, 255, 255, 0.899));
+}
+
+.footer-text {
+  font-size: 0.8rem;
+}
